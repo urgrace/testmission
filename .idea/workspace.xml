@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4369e4aa-de97-4227-9987-1995b44ee6f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/prrr.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../atea_frontend/.idea/atea_frontend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../atea_frontend/node_modules/autoprefixer/node_modules/node-releases/.idea/node-releases.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../atea_frontend/node_modules/blob/.idea/blob.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../atea_frontend/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../atea_frontend/node_modules/core-js-compat/node_modules/node-releases/.idea/node-releases.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../atea_frontend/node_modules/gulp-sass-glob/.idea/gulp-sass-glob.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../atea_frontend/node_modules/node-releases/.idea/node-releases.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lucid/.idea/lucid.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/node_modules/blob/.idea/blob.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/node_modules/gulp-util/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/node_modules/socket.io-adapter/.idea/socket.io-adapter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/node_modules/tiny-lr/.idea/tiny-lr.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twigtest/.idea/twigtest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twigtest/node_modules/blob/.idea/blob.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twigtest/node_modules/clone/clone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twigtest/node_modules/gulp-twig/.idea/gulp-twig.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twigtest/node_modules/node-releases/.idea/node-releases.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web-development-with-node-and-express-legacy/.idea/web-development-with-node-and-express-legacy.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1js6odxRUpUCCpc9s3ojzlATKL0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/img" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/img" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4369e4aa-de97-4227-9987-1995b44ee6f1" name="Default Changelist" comment="" />
+      <created>1604580627633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604580627633</updated>
+      <workItem from="1604580629174" duration="24940000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
